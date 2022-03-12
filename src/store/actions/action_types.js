@@ -1,0 +1,12 @@
+export const LOGIN = 'LOGIN';
+export const LOGOUT = 'LOGOUT';
+export const CLEAR = 'CLEAR';
+export const GET_TOKEN = 'GET_TOKEN';
+export const GET_CURRENCY = 'GET_CURRENCY';
+export const GET_LANGUAGE = 'GET_LANGUAGE';
+export const FIRST_LOGIN = 'FIRST_LOGIN';
+export const LANGUAGE_CHOOSE = 'LANGUAGE_CHOOSE';
+export const IMPERSONATE_MODE = 'IMPERSONATE_MODE';
+export const GET_SKILLS = 'GET_SKILLS';
+export const FIRST_FOR_INFO_MODULE = 'FIRST_FOR_INFO_MODULE';
+export const DEVICE_ID = 'DEVICE_ID';
